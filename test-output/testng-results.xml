@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24975" started-at="2020-07-25T11:36:29 EDT" finished-at="2020-07-25T11:36:53 EDT">
+    <groups>
+    </groups>
+    <test name="Test_1" duration-ms="12387" started-at="2020-07-25T11:36:29 EDT" finished-at="2020-07-25T11:36:41 EDT">
+      <class name="TestPackage.GoogleClass">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestPackage.GoogleClass@7d0587f1]" name="beforeTest" is-config="true" duration-ms="6945" started-at="2020-07-25T11:36:29 EDT" finished-at="2020-07-25T11:36:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Google()[pri:0, instance:TestPackage.GoogleClass@7d0587f1]" name="Google" duration-ms="3861" started-at="2020-07-25T11:36:36 EDT" finished-at="2020-07-25T11:36:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestPackage.GoogleClass@7d0587f1]" name="afterTest" is-config="true" duration-ms="1259" started-at="2020-07-25T11:36:40 EDT" finished-at="2020-07-25T11:36:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestPackage.GoogleClass -->
+    </test> <!-- Test_1 -->
+    <test name="Test_2" duration-ms="24975" started-at="2020-07-25T11:36:29 EDT" finished-at="2020-07-25T11:36:53 EDT">
+      <class name="TestPackage.QaQuestion">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestPackage.QaQuestion@4b1c1ea0]" name="beforeTest" is-config="true" duration-ms="6930" started-at="2020-07-25T11:36:29 EDT" finished-at="2020-07-25T11:36:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="QaQuestionAutomation()[pri:0, instance:TestPackage.QaQuestion@4b1c1ea0]" name="QaQuestionAutomation" duration-ms="15853" started-at="2020-07-25T11:36:36 EDT" finished-at="2020-07-25T11:36:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QaQuestionAutomation -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestPackage.QaQuestion@4b1c1ea0]" name="afterTest" is-config="true" duration-ms="1861" started-at="2020-07-25T11:36:52 EDT" finished-at="2020-07-25T11:36:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestPackage.QaQuestion -->
+    </test> <!-- Test_2 -->
+  </suite> <!-- Suite -->
+</testng-results>
